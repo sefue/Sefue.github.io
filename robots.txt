@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /gallery/
+Allow: /tags/
+Allow: /categories/
+Allow: /archives/
+Allow: /about/
+Allow: /link/
+Allow: /messageboard/
+Allow: /music/
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Sitemap: https://sefue.github.io/sitemap.xml
+Sitemap: https://sefue.github.io/baidusitemap.xml
